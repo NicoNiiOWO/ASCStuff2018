@@ -1,0 +1,12 @@
+body{
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+img{
+    width: 200px;
+}
+.column{
+    border: solid #000000;
+    padding: 10px;
+    width: 20%;
+}
